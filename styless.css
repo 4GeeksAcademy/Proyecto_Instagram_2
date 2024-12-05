@@ -1,0 +1,56 @@
+body {
+    background: black;
+    padding: 10% 35% 15% 35%;
+}
+.post {
+    background: white;
+    display: block;
+    padding: 10px 0px 10px 0px;
+}
+
+.DatosUsuario {
+    display: flex;
+    padding: 0px 10px 0px 0px;
+}
+
+#Photo {
+    width: 60px;
+    height: 60px;
+    padding: 10px 10px 0px 10px;
+    border-radius: 100%;
+}
+
+.iconosD {
+    margin-left: auto;
+    font-size: 40px;
+    background: white;
+    border: none;
+}
+
+.iconosD:active {
+    color: red;
+}
+
+#postimg {
+    width: 100%;
+    height: 100%;
+}
+
+.iconos {
+    display: flex; 
+    padding: 0px 10px 0px 10px; 
+}
+
+.iconosB {
+    font-size: 40px;
+    background: white;
+    border: none;
+}
+
+.iconosB:active {
+    color: red;
+}
+
+.DatosFinales {
+    padding: 0px 10px 0px 10px;
+}
